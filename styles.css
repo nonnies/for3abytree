@@ -8,14 +8,14 @@ body {
 
 #noButton {
     position: absolute;
-    margin-left: 400px;
+    margin-left: 350px;
     margin-top: 90px;
     transition: 0.5s;
 }
 
 #yesButton {
     position: absolute;
-    margin-right: 400px;
+    margin-right: 350px;
     margin-top: 90px;
 }
 
@@ -104,4 +104,5 @@ body {
 }
 
 */
+
 
