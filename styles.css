@@ -41,10 +41,10 @@ body {
 .btn {
     background-color: #ffffff;
     color: rgb(0, 0, 0);
-    padding: 15px 32px;
+    padding: 30px 64px;
     text-align: center;
     display: inline-block;
-    font-size: 16px;
+    font-size: 25px;
     font-weight: bold;
     margin: 4px 2px;
     cursor: pointer;
@@ -102,4 +102,5 @@ body {
 @media only screen and (max-width: 390px) and (orientation: landscape){
     
 }
+
 */
