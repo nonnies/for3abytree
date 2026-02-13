@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(254, 119, 227);
+}
+
+.header_text {
+    font-family: 'Jersey 10';
+    font-size: 70px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 30px;
+  
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    
+   
+}
+#nextButton {
+    position: absolute;
+    margin-top: 90px;
+    margin-bottom: 30px;
+}
+.btn {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    border-radius: 12px;
+    transition: background-color 0.3s ease;
+}
+
+
